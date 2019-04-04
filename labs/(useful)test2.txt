@@ -1,0 +1,8 @@
+This is a test file.
+
+made this by doing - 
+1) $ echo "This is a file." > test2.txt
+
+ran this in bash by doing - 
+1) $ cat test2.txt
+   This is a test file.        <<<---this is what happened
