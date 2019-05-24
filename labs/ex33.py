@@ -9,7 +9,6 @@ while i < 6:
     print("Numbers now: ", numbers) 
     print(f"At the bottom i is {i}") 
     
-
 print("the numbers: ") 
 
 for num in numbers: 
